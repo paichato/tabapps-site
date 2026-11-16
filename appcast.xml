@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>TabApps</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 17 Nov 2026 01:26:23 +0200</pubDate>
+            <link>https://tabsapps.marlondjesus.space</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/paichato/tabapps-site/releases/download/v1.0.0/TabApps-1.0.0.dmg" length="3573473" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
